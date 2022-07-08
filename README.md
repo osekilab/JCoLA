@@ -1,27 +1,38 @@
 # JCoLA: Japanese Corpus of Linguistic Acceptability
 
-JCoLA is a novel dataset for targeted syntactic evaluations of language models in Japanese. JCoLA consists of 2,323 sentences with acceptability judgements extracted from journal articles in theoretical linguistics. 
+JCoLA is a novel dataset for targeted syntactic evaluations of language models in Japanese,
+which consists of acceptability judgements extracted from journal articles in theoretical linguistics.
+JCoLA is included in [JGLUE benchmark](https://github.com/yahoojapan/JGLUE)  (Kurihara et al., 2022).
 
-These minimal pairs are grouped into 11 categories, each covering a different linguistic phenomenon. JBLiMP is unique in that it successfully combines two important features independently observed in existing datasets: (i) coverage of complex linguistic phenomena (cf.~CoLA;~\citealp{Warstadt2019-ru}) and (ii) presentation of sentences as minimal pairs (cf.~BLiMP;~\citealp{Warstadt2020-qe}). We evaluate the syntactic knowledge of several language models on JBLiMP: GPT-2 \citep{Radford_2019}, LSTM \citep{Hochreiter1997-is} and \textit{n}-gram language models. The results demonstrated that all the architectures achieved comparable overall accuracies around 75\%. Error analyses by linguistic phenomenon further revealed that these language models successfully captured local dependencies such as morphological constraints and nominal structures, but not long-distance dependencies such as verbal agreement and anaphor/binding.
+All the acceptability judgements were extracted from journal articles on Japanese syntax published in JEAL (Journal of East Asian Linguistics).
+The number of acceptability judgements is 2,323 in total.
 
+## Data cleansing
+1. deleteQA
+2. delete incomplete sents.
+3. different labels for the same sentence
+4. duplicated sents.
 
-## Contents
-
-## Data Description
-
+## Repository contents
+-
+## Data description
 
 |Name|Description|
 |----|-----|
-|title|title of a Wikipedia article|
-|paragraphs|a set of paragraphs|
-|qas|a set of pairs of a question and its answer|
-|question|question|
-|id|id of a question|
-|answers|a set of answers|
-|text|answer text|
-|answer_start|start position (character index)|
-|is_impossible|all the values are `false`|
-|context|a concatenation of the title and paragraph|
+|sentence_id|The unique id of the sentence.|
+|year|The year of publication of the source article.|
+|author|The author of the source article.|
+|num|The sentence number in the source article.|
+|diacritic|The acceptability judgement as originally notated in the source article.|
+|label|The acceptability judgement label (0 for unacceptable, 1 for acceptable)|
+|type|The categorization based on the type of acceptability judgements.|
+|phenomenon|The categorization based on the linguistic phenomenon.|
+|phenomenon-2|The categorization based on the linguistic phenomenon (if the sentence is grouped into 2 categories).|
+|paradigm|The subcategorization of the phenomenon column.|
+|raw_sentence|The original sentence as presented in the source article.|
+|sentence|The sentence (modified by the author if needed).|
+|gloss|The gloss of the sentence as presented in the source article (if any).|
+|translation|The English translation of the sentence as presentend in the source article (if any).|
 
 ## Refernece
 
@@ -43,4 +54,10 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 
 ## Updates
-*Coming soon* We are planning to increase the size of JCoLA.
+**1 July 2022** 18 acceptability judgements were removed because these were sentences presented for analyses of syntactic structures.
+The total number of acceptability judgements has become 2,305.
+
+**1 July 2022** Yoon(2013) was removed from source paper, because this paper doesn't exclusively adress Japanese syntax.
+The total number of acceptability judgements has become 2,250.
+
+**Coming soon** We are planning to increase the size of JCoLA.
