@@ -30,5 +30,3 @@ arxiv
 
 ## License
 Most of the example sentences are extracted from linguistic journals without any modification. Hence, in most cases, the copyright of the example sentences remains with the original authors or publishers.
-
-## Updates
