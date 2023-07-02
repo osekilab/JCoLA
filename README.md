@@ -5,10 +5,10 @@ JCoLA (Japanese Corpus of Linguistic Accept010 ability) is a novel dataset for t
 ## Repository contents
 
 - jcola-v1.0
-  - `in_domain_train-v1.0.{json, csv}`
-  - `in_domain_valid-v1.0.{json, csv}`
+  - `in_domain_train-v1.0.{json, tsv}`
+  - `in_domain_valid-v1.0.{json, tsv}`
   - `out_of_domain_valid-v1.0.json`
-  - `out_of_domain_valid_annotated-v1.0.{json, csv}`
+  - `out_of_domain_valid_annotated-v1.0.{json, tsv}`
     - The development split of out-of-domain data with annotation of the linguistic phenomenon. Note that a sentence can be categorized into multiple phenomena (more than one column can be `True`).
 
 ## Data description
