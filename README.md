@@ -4,7 +4,7 @@ JCoLA (Japanese Corpus of Linguistic Accept010 ability) is a novel dataset for t
 
 ## Repository contents
 
-- jcola-v1.0
+- `data/jcola-v1.0`
   - `in_domain_train-v1.0.{json, tsv}`
   - `in_domain_valid-v1.0.{json, tsv}`
   - `out_of_domain_valid-v1.0.json`
