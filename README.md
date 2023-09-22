@@ -13,17 +13,17 @@ JCoLA (Japanese Corpus of Linguistic Accept010 ability) is a novel dataset for t
 
 ## Data description
 
-| Name                    | Description                                                                                                                                |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| uid                     | The unique id of the sentence.                                                                                                             |
-| soruce                  | The author and the year of publication of the source article.                                                                              |
-| label                   | The acceptability judgement label (0 for unacceptable, 1 for acceptable)                                                                   |
-| diacritic               | The acceptability judgement as originally notated in the source article.                                                                   |
-| sentence                | The sentence (modified by the author if needed).                                                                                           |
-| original                | The original sentence as presented in the source article.                                                                                  |
-| translation             | The English translation of the sentence as presentend in the source article (if any).                                                      |
-| gloss                   | The gloss of the sentence as presented in the source article (if any).                                                                     |
-| {linguistic phenomenon} | The flag to indicate if the sentence' category. (`True` if the sentence is categorized into this linguistic phenomenon, `False` otherwise) |
+| Name                    | Description                                                                                                                              |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| uid                     | The unique id of the sentence.                                                                                                           |
+| soruce                  | The author and the year of publication of the source article.                                                                            |
+| label                   | The acceptability judgement label (0 for unacceptable, 1 for acceptable)                                                                 |
+| diacritic               | The acceptability judgement as originally notated in the source article.                                                                 |
+| sentence                | The sentence (modified by the author if needed).                                                                                         |
+| original                | The original sentence as presented in the source article.                                                                                |
+| translation             | The English translation of the sentence as presentend in the source article (if any).                                                    |
+| gloss                   | The gloss of the sentence as presented in the source article (if any).                                                                   |
+| {linguistic phenomenon} | The flag to indicate the sentence's category. (`True` if the sentence is categorized into this linguistic phenomenon, `False` otherwise) |
 
 ## Baseline Scores
 
@@ -40,12 +40,6 @@ JCoLA (Japanese Corpus of Linguistic Accept010 ability) is a novel dataset for t
 | XLM RoBERTa large           | 0.831 ± 0.007 | 0.214 ± 0.128 | 0.772 ± 0.008          | 0.32 ± 0.033           |
 | Human (Individual)          | 0.760         | 0.384         | 0.854                  | 0.653                  |
 | Human (Majority)            | 0.795         | 0.437         | 1.000                  | 1.000                  |
-
-## Refernece
-
-```
-arxiv
-```
 
 ## License
 
