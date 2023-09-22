@@ -43,4 +43,4 @@ JCoLA (Japanese Corpus of Linguistic Accept010 ability) is a novel dataset for t
 
 ## License
 
-Most of the example sentences are extracted from linguistic journals without any modification. Hence, in most cases, the copyright of the example sentences remains with the original authors or publishers.
+The text in this corpus is excerpted from the published works, and copyright (where applicable) remains with the original authors or publishers. We expect that research use within Japan is legal under fair use, but make no guarantee of this.
