@@ -236,7 +236,7 @@
 {"uid":7691,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"筧先生に娘さんがいらっしゃる。","original":"筧先生に娘さんがいらっしゃる。"}
 {"uid":3430,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンが日本語を話せる。","original":"ジョンが日本語を話せる。"}
 {"uid":6521,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"このお菓子は、お父さんにあげるんだから、あまり甘くなくていい。","original":"このお菓子は、お父さんにあげるんだから、あまり甘くなくていい。"}
-{"uid":4848,"source":"Miyagawa_and_Saito","label":0,"diacritic":"*","sentence":"ジョンいモーツァルトが演奏ができる。","original":"ジョンいモーツァルトが演奏ができる。"}
+{"uid":4848,"source":"Miyagawa_and_Saito","label":0,"diacritic":"*","sentence":"ジョンにモーツァルトが演奏ができる。","original":"ジョンにモーツァルトが演奏ができる。"}
 {"uid":5365,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"人を愛するを忘れるな。","original":"人を愛するを忘れるな。"}
 {"uid":2548,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"太郎が吹雪に遭った。","original":"吹雪に遭った。"}
 {"uid":1099,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"最近日本から輸出される衣類は高級品だ。","original":"最近日本から輸出される衣類は高級品だ。"}
@@ -622,7 +622,7 @@
 {"uid":8182,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"スープを温めなおした。","original":"スープを温めなおした。"}
 {"uid":5059,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"ジョンが押したらドアが開いた。","original":"ジョンが押したらドアが開いた。"}
 {"uid":2969,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンがメアリーを殴ったとき、トムもジェーンを殴った。","original":"ジョンがメアリーを殴ったとき、トムもジェーンを殴った。"}
-{"uid":7440,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"山田先生は本をおお読みになり始めになった。","original":"山田先生は本をおお読みになり始めになった。"}
+{"uid":7440,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"山田先生は本をお読みになり始めになった。","original":"山田先生は本をお読みになり始めになった。"}
 {"uid":4269,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"ビルが特高によって殺された。","original":"ビルが特高によって殺された。"}
 {"uid":2517,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンがメアリーと恋愛している。","original":"ジョンがメアリーと恋愛している。"}
 {"uid":1524,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"メアリーがご飯を蒸らした。","original":"メアリーがご飯を蒸らした。"}
