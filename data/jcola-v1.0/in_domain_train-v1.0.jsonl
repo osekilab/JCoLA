@@ -235,7 +235,7 @@
 {"uid":7746,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"太郎は花子に自分の部屋で死なれた。","original":"太郎は花子に自分の部屋で死なれた。"}
 {"uid":4501,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"私が大学の図書館で1番よく本を読む。","original":"私が大学の図書館で1番よく本を読む。"}
 {"uid":254,"source":"Gunji_1987","label":1,"diacritic":"g","sentence":"昨日は太郎が昼飯を作った。","original":"昨日は太郎が昼飯を作った。"}
-{"uid":1842,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"国民は早く経済事情が好転することを望んている。","original":"国民は早く経済事情が好転することを望んている。"}
+{"uid":1842,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"国民は早く経済事情が好転することを望んでいる。","original":"国民は早く経済事情が好転することを望んでいる。"}
 {"uid":6338,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"私は二郎によく働くことを命じた。","original":"私は二郎によく働くことを命じた。"}
 {"uid":2986,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"メアリーが来ると、ジョンが帰った。","original":"メアリーが来ると、ジョンが帰った。"}
 {"uid":3158,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"どこかへ行くのですか？","original":"どこかへ行くのですか？"}
@@ -503,7 +503,7 @@
 {"uid":43,"source":"Gunji_1987","label":1,"diacritic":"g","sentence":"私には先生がいつも人生のお手本としてあった。","original":"私には先生がいつも人生のお手本としてあった。"}
 {"uid":2140,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"メアリーにジョンが本をやった。","original":"メアリーにジョンが本をやった。"}
 {"uid":6297,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"私は花子が泳いでいるのを見た。","original":"私は花子が泳いでいるのを見た。"}
-{"uid":6479,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"その学生はよくベンキュ王するように努めた。","original":"その学生はよくベンキュ王するように努めた。"}
+{"uid":6479,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"その学生はよく勉強するように努めた。","original":"その学生はよく勉強するように努めた。"}
 {"uid":3176,"source":"Kuno_1973","label":0,"diacritic":"*","sentence":"ジョンはバカなことはみんなが知っている。","original":"ジョンはバカなことはみんなが知っている。"}
 {"uid":8463,"source":"Tsujimura_2013","label":0,"diacritic":"*","sentence":"フランス語が花子が話せる。","original":"フランス語が花子が話せる。"}
 {"uid":8299,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"美智子が皿を片付けた。","original":"美智子が皿を片付けた。"}
@@ -647,7 +647,7 @@
 {"uid":6593,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"清はクリスマスにお母さんにプレゼントをあげなかった。","original":"清はクリスマスにお母さんにプレゼントをあげなかった。"}
 {"uid":8087,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"太郎が親に2人子供にタバコを吸わせる。","original":"太郎が親に2人子供にタバコを吸わせる。"}
 {"uid":8174,"source":"Tsujimura_1999","label":0,"diacritic":"*","sentence":"太郎がコメントを書き込むと、花子もそうし込む。","original":"そうし込む"}
-{"uid":5573,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"少年は自分が女の子こにモテないことを納得した。","original":"少年は自分が女の子こにモテないことを納得した。"}
+{"uid":5573,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"少年は自分が女の子にモテないことを納得した。","original":"少年は自分が女の子にモテないことを納得した。"}
 {"uid":5904,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"花子は太郎に自分の親の元に残された。","original":"花子は太郎に自分の親の元に残された。"}
 {"uid":324,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"宅地造成で丘をすっかり動かしてしまった。","original":"宅地造成で丘をすっかり動かしてしまった。"}
 {"uid":485,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"母親の思いやりが息子に困難な仕事をやり遂げさせた。","original":"母親の思いやりが息子に困難な仕事をやり遂げさせた。"}
@@ -668,7 +668,7 @@
 {"uid":5124,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"陽子がどの本を読みましたか？","original":"陽子がどの本を読みましたか？"}
 {"uid":6501,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"太郎は食べなくてあげた。","original":"太郎は食べなくてあげた。"}
 {"uid":6458,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"彼女は買い物に行くということが嫌いだ。","original":"彼女は買い物に行くということが嫌いだ。"}
-{"uid":3187,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"日本海に住んでいある鯨。","original":"日本海に住んでいある鯨。"}
+{"uid":3187,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"日本海に住んでいる鯨。","original":"日本海に住んでいる鯨。"}
 {"uid":4992,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"3人の学生が昨日ピーターを殺した。","original":"3人の学生が昨日ピーターを殺した。"}
 {"uid":5581,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"母が癌でなかったので、宏は喜んだ。","original":"母が癌でなかったので、宏は喜んだ。"}
 {"uid":7789,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"今この本を読んでるねん。","original":"今この本を読んでるねん。"}
@@ -961,7 +961,7 @@
 {"uid":2203,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンは東京に住んでいる。","original":"ジョンは東京に住んでいる。"}
 {"uid":4646,"source":"Kuroda_1992","label":0,"diacritic":"*","sentence":"正男が花子キスしたのは頬だ。","original":"正男が花子キスしたのは頬だ。"}
 {"uid":4739,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"メアリーがジョンにリンゴを2つとボブにバナナを3本あげた。","original":"メアリーがジョンにリンゴを2つとボブにバナナを3本あげた。"}
-{"uid":8614,"source":"Tsujimura_2013","label":1,"diacritic":"g","sentence":"太郎が数学ができる学生に学生に会った。","original":"太郎が数学ができる学生に学生に会った。"}
+{"uid":8614,"source":"Tsujimura_2013","label":1,"diacritic":"g","sentence":"太郎が数学ができる学生に会った。","original":"太郎が数学ができる学生に会った。"}
 {"uid":2592,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンにメアリーが結婚した。","original":"ジョンにメアリーが結婚した。"}
 {"uid":1061,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"学生たちが数十人集まっている中に、田中君もいた。","original":"学生たちが数十人集まっている中に、田中君もいた。"}
 {"uid":7061,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"子供の頃、太郎は、友達と喧嘩してよく泣かされるものだった。","original":"子供の頃、太郎は、友達と喧嘩してよく泣かされるものだった。"}
@@ -1311,7 +1311,7 @@
 {"uid":1814,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"雪が振っている。","original":"雪が振っている。"}
 {"uid":1501,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"太郎は子供を死なせた。","original":"太郎は子供を死なせた。"}
 {"uid":8037,"source":"Tsujimura_1999","label":0,"diacritic":"*","sentence":"メアリーが注意を大切だと思った。","original":"メアリーが注意を大切だと思った。"}
-{"uid":1252,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"ジョンは、ビルが成功するのを望んている。","original":"ジョンは、ビルが成功するのを望んている。"}
+{"uid":1252,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"ジョンは、ビルが成功するのを望んでいる。","original":"ジョンは、ビルが成功するのを望んでいる。"}
 {"uid":5100,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"ジョンはメアリーが何を買ったかどうか誰に尋ねたの？","original":"ジョンはメアリーが何を買ったかどうか誰に尋ねたの？"}
 {"uid":5639,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"自分が恋人に裏切られたことが宏の死体を打ちのめした。","original":"自分が恋人に裏切られたことが宏の死体を打ちのめした。"}
 {"uid":8366,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"日本語がジョンがメアリーに読めると思っている。","original":"日本語がジョンがメアリーに読めると思っている。"}
@@ -2259,7 +2259,7 @@
 {"uid":3267,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"花のうちでは桜がいい。","original":"花のうちでは桜がいい。"}
 {"uid":7706,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"太郎が英語を勉強する。","original":"太郎が英語を勉強する。"}
 {"uid":502,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"彼は妻を働かせた。","original":"彼は妻を働かせた。"}
-{"uid":1942,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"私は、電車の中できれな着物を着ている女の人に話しかけた。","original":"私は、電車の中できれな着物を着ている女の人に話しかけた。"}
+{"uid":1942,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"私は、電車の中で綺麗な着物を着ている女の人に話しかけた。","original":"私は、電車の中で綺麗な着物を着ている女の人に話しかけた。"}
 {"uid":5376,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"山田は田中がバカだぞと思った。","original":"山田は田中がバカだぞと思った。"}
 {"uid":3270,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンとビルとメアリーの中で、メアリーが1番良くできる。","original":"ジョンとビルとメアリーの中で、メアリーが1番良くできる。"}
 {"uid":2747,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンは、読んだ本を片付けた。","original":"ジョンは、読んだ本を片付けた。"}
@@ -2516,7 +2516,7 @@
 {"uid":5485,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"宏は悩んだ。","original":"宏は悩んだ。"}
 {"uid":8234,"source":"Tsujimura_1999","label":0,"diacritic":"*","sentence":"逮捕は警察が容疑者をした。","original":"逮捕は警察が容疑者をした。"}
 {"uid":3602,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"あなたがお帰りになってから、ビルから電話がありましてね、その事件のことを聞かれました。","original":"あなたがお帰りになってから、ビルから電話がありましてね..."}
-{"uid":3031,"source":"Kuno_1973","label":0,"diacritic":"*","sentence":"ジョンは上着を脱ぐと、ハンガーにかけなkった。","original":"ジョンは上着を脱ぐと、ハンガーにかけなkった。"}
+{"uid":3031,"source":"Kuno_1973","label":0,"diacritic":"*","sentence":"ジョンは上着を脱ぐと、ハンガーにかけなかった。","original":"ジョンは上着を脱ぐと、ハンガーにかけなかった。"}
 {"uid":2038,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"花子は、太郎が自分の車で出かけたことを心配した。","original":"花子は、太郎が自分の車で出かけたことを心配した。"}
 {"uid":4377,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"太郎がハワイに来た。","original":"太郎がハワイに来た。"}
 {"uid":1308,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"ジョンは泳ぐことが好きだ。","original":"ジョンは泳ぐことが好きだ。"}
@@ -2685,7 +2685,7 @@
 {"uid":8424,"source":"Tsujimura_2013","label":1,"diacritic":"g","sentence":"もう読んだ、この本。","original":"もう読んだ、この本。"}
 {"uid":8638,"source":"Tsujimura_2013","label":1,"diacritic":"g","sentence":"太郎がヨーロッパへの友達との旅行をした。","original":"太郎がヨーロッパへの友達との旅行をした。"}
 {"uid":5823,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"太郎は弟が自分の論文をタイプしていたので、遊びに行くのをやめた。","original":"太郎は弟が自分の論文をタイプしていたので、遊びに行くのをやめた。"}
-{"uid":6699,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"太郎は誰も来なかったたと喜んだ。","original":"太郎は誰も来なかったたと喜んだ。"}
+{"uid":6699,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"太郎は誰も来なかったと喜んだ。","original":"太郎は誰も来なかったと喜んだ。"}
 {"uid":2800,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"6時にご飯を食べてから、7時に映画を見に行った。","original":"6時にご飯を食べてから、7時に映画を見に行った。"}
 {"uid":1895,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"彼は、金がある時にはいつも友達と飲み歩いた。","original":"彼は、金がある時にはいつも友達と飲み歩いた。"}
 {"uid":7784,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"太郎はみんなが尊敬している。","original":"太郎はみんなが尊敬している。"}
@@ -2838,7 +2838,7 @@
 {"uid":7528,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"太郎が来た。","original":"太郎が来た。"}
 {"uid":243,"source":"Gunji_1987","label":1,"diacritic":"g","sentence":"ハンバーグを焼く匂いがした。","original":"ハンバーグを焼く匂い"}
 {"uid":6212,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"山田先生は社長が部長を紹介した。","original":"山田先生は社長が部長を紹介した。"}
-{"uid":1821,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"多額の金が金が要ってしまった。","original":"多額の金が金が要ってしまった。"}
+{"uid":1821,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"多額の金が要ってしまった。","original":"多額の金が要ってしまった。"}
 {"uid":4987,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"3人の男の子が昨日おもちゃのボートを作った。","original":"3人の男の子が昨日おもちゃのボートを作った。"}
 {"uid":3215,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"その友達からは手紙がたくさん来た。","original":"その友達からは手紙がたくさん来た。"}
 {"uid":2709,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンは日本語を話せる。","original":"ジョンは日本語を話せる。"}
@@ -3285,7 +3285,7 @@
 {"uid":8246,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"太郎はテレビを見た後で勉強する。","original":"太郎はテレビを見た後で勉強する。"}
 {"uid":150,"source":"Gunji_1987","label":0,"diacritic":"?*","sentence":"健が直美を疑ったので富雄も真理恵をそうした。","original":"健が直美を疑ったので富雄も真理恵をそうした。"}
 {"uid":3374,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンはメアリーに自分の家で勉強するよう要求した。","original":"ジョンはメアリーに自分の家で勉強するよう要求した。"}
-{"uid":7085,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"終rは、あいつに車を貸してやります。","original":"終rは、あいつに車を貸してやります。"}
+{"uid":7085,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"俺は、あいつに車を貸してやります。","original":"俺は、あいつに車を貸してやります。"}
 {"uid":1380,"source":"Inoue_1976","label":0,"diacritic":"*","sentence":"窓がジョンから壊された。","original":"窓がジョンから壊された。"}
 {"uid":2665,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"メアリーが僕に本を読んでくれた。","original":"メアリーが僕に本を読んでくれた。"}
 {"uid":5841,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"自分が馬鹿であることが美智子を悲しませた。","original":"自分が馬鹿であることが美智子を悲しませた。"}
@@ -3791,7 +3791,7 @@
 {"uid":6050,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"僕は力ずくでジョンを行かせた。","original":"僕は力ずくでジョンを行かせた。"}
 {"uid":1079,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"隣家で子供を叱りつける時の声が聞こえる。","original":"隣家で子供を叱りつける時の声が聞こえる。"}
 {"uid":1589,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"大きな丸太で道路が塞がっていた。","original":"大きな丸太で道路が塞がっていた。"}
-{"uid":2531,"source":"Kuno_1973","label":0,"diacritic":"*","sentence":"壁がトムの頭と打つかった。","original":"壁がトムの頭と打つかった。"}
+{"uid":2531,"source":"Kuno_1973","label":0,"diacritic":"*","sentence":"壁がトムの頭とぶつかった。","original":"壁がトムの頭とぶつかった。"}
 {"uid":8285,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"花子が花を部屋に飾った。","original":"花子が花を部屋に飾った。"}
 {"uid":4368,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"太郎は働ける。","original":"太郎は働ける。"}
 {"uid":4927,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"この辺りは日が暮れるのにつれ冷え込んでくる。","original":"この辺りは日が暮れるのにつれ冷え込んでくる。"}
@@ -3964,7 +3964,7 @@
 {"uid":2877,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"英語を話すなら、正しい英語を使いましょう。","original":"英語を話すなら、正しい英語を使いましょう。"}
 {"uid":1274,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"山田君は、レポートを出すことを忘れていた。","original":"山田君は、レポートを出すことを忘れていた。"}
 {"uid":6992,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"警官は、ある男が屋根によじ登っているところを捕まえた。","original":"警官は、ある男が屋根によじ登っているところを捕まえた。"}
-{"uid":6314,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"警察は泥棒が花子の財布をとっているのをのを捕まえた。","original":"警察は泥棒が花子の財布をとっているのをのを捕まえた。"}
+{"uid":6314,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"警察は泥棒が花子の財布をとっているのを捕まえた。","original":"警察は泥棒が花子の財布をとっているのを捕まえた。"}
 {"uid":2599,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"メアリーがジョンと相談した。","original":"メアリーがジョンと相談した。"}
 {"uid":336,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"誰かがタンクの水を漏らしてしまった。","original":"誰かがタンクの水を漏らしてしまった。"}
 {"uid":4059,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"ジョンが統辞構造論を読んだ。","original":"ジョンが統辞構造論を読んだ。"}
@@ -4185,7 +4185,7 @@
 {"uid":6424,"source":"Shibatani_1976","label":0,"diacritic":"*","sentence":"太郎が二郎を裏切ったことは疑わしい。","original":"太郎が二郎を裏切ったことは疑わしい。"}
 {"uid":1246,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"ジョンは、ビルが助けてくれるのを信じた。","original":"ジョンは、ビルが助けてくれるのを信じた。"}
 {"uid":522,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"ジョンがタイプを打たせた友達から電話がかかった。","original":"ジョンがタイプを打たせた友達から電話がかかった。"}
-{"uid":7955,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"太郎の先sねいが自分自身を批判した。","original":"太郎の先sねいが自分自身を批判した。"}
+{"uid":7955,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"太郎の先生が自分自身を批判した。","original":"太郎の先生が自分自身を批判した。"}
 {"uid":5828,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"父が自分を呼んだとき小包が太郎に来た。","original":"父が自分を呼んだとき小包が太郎に来た。"}
 {"uid":4147,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"あそこに立っていらっしゃるご老人をそこにお呼びして、向こうに立っていらっしゃる方をここにお呼びしてください。","original":"あそこに立っていらっしゃるご老人をそこにお呼びして、向こうに立っていらっしゃる方をここにお呼びしてください。"}
 {"uid":431,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"お前たちは、機械に芝を刈らせれば良い。","original":"お前たちは、機械に芝を刈らせれば良い。"}
@@ -5228,7 +5228,7 @@
 {"uid":7270,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"太郎はお料理をした。","original":"お料理"}
 {"uid":2681,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"先生の靴を磨いてさしあげた。","original":"先生の靴を磨いてさしあげた。"}
 {"uid":6851,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"昨日時計が止まったままになっていた。","original":"昨日時計が止まったままになっていた。"}
-{"uid":6340,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"支配人は来週の日曜日に工場を閉鎖することをを示唆した。","original":"支配人は来週の日曜日に工場を閉鎖することをを示唆した。"}
+{"uid":6340,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"支配人は来週の日曜日に工場を閉鎖することを示唆した。","original":"支配人は来週の日曜日に工場を閉鎖することを示唆した。"}
 {"uid":3560,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"日本の木は綺麗です。","original":"日本の木は綺麗です。"}
 {"uid":8362,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"太郎が外を歩き回る。","original":"歩き回る。"}
 {"uid":5933,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"美智子はこっそり恋人にあった。","original":"美智子はこっそり恋人にあった。"}
@@ -5248,7 +5248,7 @@
 {"uid":3496,"source":"Kuno_1973","label":0,"diacritic":"??","sentence":"木が山にある。","original":"木が山にある。"}
 {"uid":3353,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンは電車の中で綺麗な着物を着ている女の人に話しかけた。","original":"ジョンは電車の中で綺麗な着物を着ている女の人に話しかけた。"}
 {"uid":8637,"source":"Tsujimura_2013","label":1,"diacritic":"g","sentence":"太郎がヨーロッパへ友達と旅行をした。","original":"太郎がヨーロッパへ友達と旅行をした。"}
-{"uid":5999,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"太郎が帰るを殺した。","original":"太郎が帰るを殺した。"}
+{"uid":5999,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"太郎がカエルを殺した。","original":"太郎がカエルを殺した。"}
 {"uid":5219,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"ロジャーはご飯どんぶり4杯を食べた。","original":"ロジャーはご飯どんぶり4杯を食べた。"}
 {"uid":3370,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンがメアリーに自分の家で勉強してもらった。","original":"ジョンがメアリーに自分の家で勉強してもらった。"}
 {"uid":6533,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"仕事がうまく行かないで、離婚の決意をした。","original":"仕事がうまく行かないで、離婚の決意をした。"}
@@ -5315,7 +5315,7 @@
 {"uid":5069,"source":"Miyagawa_and_Saito","label":0,"diacritic":"*","sentence":"太郎が知らせを聞き帰った。","original":"太郎が知らせを聞き帰った。"}
 {"uid":7174,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"太郎は朝食べるご飯を食べた。","original":"朝食べるご飯"}
 {"uid":7831,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"太郎が僕に電話をかけてきた。","original":"太郎が僕に電話をかけてきた。"}
-{"uid":1807,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"太郎あ花子の従弟にあたる。","original":"太郎あ花子の従弟にあたる。"}
+{"uid":1807,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"太郎は花子の従弟にあたる。","original":"太郎は花子の従弟にあたる。"}
 {"uid":2034,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"山川先生は、自分の部屋にいた学生に外へ出るように言った。","original":"山川先生は、自分の部屋にいた学生に外へ出るように言った。"}
 {"uid":1404,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"ビルが大きな堤を、アメリカからジョンの家に送った。","original":"ビルが大きな堤を、アメリカからジョンの家に送った。"}
 {"uid":3537,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンの弟をよく知っている。","original":"ジョンの弟をよく知っている。"}
@@ -5445,7 +5445,7 @@
 {"uid":8351,"source":"Tsujimura_1999","label":0,"diacritic":"*","sentence":"太郎が公園に歩いた。","original":"太郎が公園に歩いた。"}
 {"uid":5864,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"学生は彼らの部屋に立て籠った。","original":"学生は彼らの部屋に立て籠った。"}
 {"uid":2194,"source":"Kuno_1973","label":0,"diacritic":"*","sentence":"これは本だか？","original":"これは本だか？"}
-{"uid":7938,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"ジョンは自分が自分が買っている犬を殴ると、ビルもそうした。","original":"ジョンは自分が自分が買っている犬を殴ると、ビルもそうした。"}
+{"uid":7938,"source":"Tsujimura_1999","label":1,"diacritic":"g","sentence":"ジョンは自分が買っている犬を殴ると、ビルもそうした。","original":"ジョンは自分が買っている犬を殴ると、ビルもそうした。"}
 {"uid":2787,"source":"Kuno_1973","label":0,"diacritic":"*","sentence":"ジョンが死なないうちにお金を借りておいた。","original":"ジョンが死なないうちにお金を借りておいた。"}
 {"uid":2701,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"ジョンがメアリーに手紙を書く。","original":"ジョンがメアリーに手紙を書く。"}
 {"uid":1351,"source":"Inoue_1976","label":0,"diacritic":"*","sentence":"ジョンが自信を失えた。","original":"ジョンが自信を失えた。"}
@@ -5855,7 +5855,7 @@
 {"uid":1608,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"太郎には美しい景色が見える。","original":"太郎には美しい景色が見える。"}
 {"uid":4805,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"ジョンがメアリーを教室に入れなくもした。","original":"ジョンがメアリーを教室に入れなくもした。"}
 {"uid":6378,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"彼女がわっと泣き出したことには閉口している。","original":"彼女がわっと泣き出したことには閉口している。"}
-{"uid":6347,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"久美子は手からハンドバックを放ったくるのを防いだ。","original":"久美子は手からハンドバックを放ったくるのを防いだ。"}
+{"uid":6347,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"久美子は手からハンドバックをひったくるのを防いだ。","original":"久美子は手からハンドバックをひったくるのを防いだ。"}
 {"uid":7728,"source":"Shibatani_1990","label":1,"diacritic":"g","sentence":"太郎が二郎を止まらせたので、僕もそうした。","original":"太郎が二郎を止まらせたので、僕もそうした。"}
 {"uid":1378,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"ジョンが窓を壊した。","original":"ジョンが窓を壊した。"}
 {"uid":5243,"source":"Miyagawa_and_Saito","label":1,"diacritic":"g","sentence":"ジョンは本をたくさん読んだ。","original":"ジョンは本をたくさん読んだ。"}
@@ -5893,7 +5893,7 @@
 {"uid":5246,"source":"Miyagawa_and_Saito","label":0,"diacritic":"*","sentence":"ジョンは本たくさんを買った。","original":"ジョンは本たくさんを買った。"}
 {"uid":1484,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"太郎は家財道具を焼いた。","original":"太郎は家財道具を焼いた。"}
 {"uid":4466,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"正男にとってはその郵便局から小包みが送りやすい。","original":"正男にとってはその郵便局から小包みが送りやすい。"}
-{"uid":2632,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"僕はジョンがバカだとととは言ったが、嘘つきだととは言わなかった。","original":"僕はジョンがバカだとととは言ったが、嘘つきだととは言わなかった。"}
+{"uid":2632,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"僕はジョンがバカだととは言ったが、嘘つきだととは言わなかった。","original":"僕はジョンがバカだととは言ったが、嘘つきだととは言わなかった。"}
 {"uid":5884,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"メアリーは自分自身を騙した。","original":"メアリーは自分自身を騙した。"}
 {"uid":361,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"昨日は午後から雨が降った。","original":"昨日は午後から雨が降った。"}
 {"uid":6154,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"山田さんが飼っている猿は大きい。","original":"山田さんが飼っている猿"}
@@ -6117,7 +6117,7 @@
 {"uid":1978,"source":"Inoue_1976","label":1,"diacritic":"g","sentence":"加藤氏は、友人が国会で質問する有様をテレビで見た。","original":"加藤氏は、友人が国会で質問する有様をテレビで見た。"}
 {"uid":6205,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"あの包丁では田中さんが肉を刻んだ。","original":"あの包丁では田中さんが肉を刻んだ。"}
 {"uid":3357,"source":"Kuno_1973","label":1,"diacritic":"g","sentence":"僕は自分を軽蔑している。","original":"僕は自分を軽蔑している。"}
-{"uid":4158,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"お年寄りの方で腰が曲がって杖をお突きになっていらっしゃる方が大勢でもに参加されました。","original":"お年寄りの方で腰が曲がって杖をお突きになっていらっしゃる方が大勢でもに参加されました。"}
+{"uid":4158,"source":"Kuroda_1992","label":1,"diacritic":"g","sentence":"お年寄りの方で腰が曲がって杖をお突きになっていらっしゃる方が大勢デモに参加されました。","original":"お年寄りの方で腰が曲がって杖をお突きになっていらっしゃる方が大勢デモに参加されました。"}
 {"uid":5658,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"自分がメアリーに揶揄われたことがジョンを絶望させた。","original":"自分がメアリーに揶揄われたことがジョンを絶望させた。"}
 {"uid":8499,"source":"Tsujimura_2013","label":1,"diacritic":"g","sentence":"ジョンは自分自身がメアリーに謝るべきだと思っている。","original":"ジョンは自分自身がメアリーに謝るべきだと思っている。"}
 {"uid":5892,"source":"Shibatani_1976","label":1,"diacritic":"g","sentence":"メアリーはジョンに自分の家で本を読ませられた。","original":"メアリーはジョンに自分の家で本を読ませられた。"}
