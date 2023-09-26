@@ -44,3 +44,15 @@ JCoLA (Japanese Corpus of Linguistic Accept010 ability) is a novel dataset for t
 ## License
 
 The text in this corpus is excerpted from the published works, and copyright (where applicable) remains with the original authors or publishers. We expect that research use within Japan is legal under fair use, but make no guarantee of this.
+
+## Citation
+```
+@article{someya2023jcola,
+      title={JCoLA: Japanese Corpus of Linguistic Acceptability}, 
+      author={Taiga Someya and Yushi Sugimoto and Yohei Oseki},
+      year={2023},
+      eprint={2309.12676},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
