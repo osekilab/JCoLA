@@ -47,12 +47,24 @@ The text in this corpus is excerpted from the published works, and copyright (wh
 
 ## Citation
 ```
-@article{someya2023jcola,
-      title={JCoLA: Japanese Corpus of Linguistic Acceptability}, 
-      author={Taiga Someya and Yushi Sugimoto and Yohei Oseki},
-      year={2023},
-      eprint={2309.12676},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{someya-etal-2024-jcola-japanese,
+    title = "{JC}o{LA}: {J}apanese Corpus of Linguistic Acceptability",
+    author = "Someya, Taiga  and
+      Sugimoto, Yushi  and
+      Oseki, Yohei",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.828",
+    pages = "9477--9488",
+    abstract = "Neural language models have exhibited outstanding performance in a range of downstream tasks. However, there is limited understanding regarding the extent to which these models internalize syntactic knowledge, so that various datasets have recently been constructed to facilitate syntactic evaluation of language models across languages. In this paper, we introduce JCoLA (Japanese Corpus of Linguistic Acceptability), which consists of 10,020 sentences annotated with binary acceptability judgments. Specifically, those sentences are manually extracted from linguistics textbooks, handbooks and journal articles, and split into in-domain data (86 {\%}; relatively simple acceptability judgments extracted from textbooks and handbooks) and out-of-domain data (14 {\%}; theoretically significant acceptability judgments extracted from journal articles), the latter of which is categorized by 12 linguistic phenomena. We then evaluate the syntactic knowledge of 9 different types of Japanese and multilingual language models on JCoLA. The results demonstrated that several models could surpass human performance for the in-domain data, while no models were able to exceed human performance for the out-of-domain data. Error analyses by linguistic phenomena further revealed that although neural language models are adept at handling local syntactic dependencies like argument structure, their performance wanes when confronted with long-distance syntactic dependencies like verbal agreement and NPI licensing.",
 }
 ```
