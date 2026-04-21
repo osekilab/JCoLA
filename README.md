@@ -43,8 +43,8 @@ JCoLA (Japanese Corpus of Linguistic Acceptability) is a novel dataset for targe
 
 ## License
 
-The text in this corpus is excerpted from the published works, and copyright (where applicable) remains with the original authors or publishers. We expect that research use within Japan is legal under fair use, but make no guarantee of this.
-
+[CC BY-SA 4.0
+](https://creativecommons.org/licenses/by-sa/4.0/)
 ## Citation
 ```
 @inproceedings{someya-etal-2024-jcola-japanese,
